@@ -2,4 +2,4 @@
 source /Users/arun/.ghcup/env
 
 alias c=clear
-alias gcos = gco feature/sphere/main
+

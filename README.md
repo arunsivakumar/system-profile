@@ -5,3 +5,5 @@ all my system profile
 2. Spaceship
 3. FZF
 4. rg
+
+https://sourabhbajaj.com/mac-setup/iTerm/zsh.html
